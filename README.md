@@ -1,7 +1,7 @@
-#AdMob
-####*Admob* is a platformby Goggle that advertisers ads with apps which are the ad publisher.AdMob uses complex algorithm to determine the appropriate ad for the app user.
+AdMob
+Admob* is a platformby Goggle that advertisers ads with apps which are the ad publisher.AdMob uses complex algorithm to determine the appropriate ad for the app user.
 
-*Types of ad are* 
+Types of ad are:-
 *Banner Ads
 *Interstial Ads
 *Native Ads
