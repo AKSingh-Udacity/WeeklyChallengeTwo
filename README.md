@@ -6,20 +6,20 @@ __Admob* is a platformby Goggle that advertisers ads with apps which are the ad 
 *Interstial Ads
 *Native Ads
     
- ##Banner
+ ***Banner***
 
 *Cover a portion of Screen.
  *Can be shared with app content.
 *open a webpage on click.
  *Can either be text or an Image
  
- ##Interstial
+ ***Interstial***
  *Coverv the entire screen.
  *Show Text,Image or video content.
  
 *Are perfect on a natural break of your app.E:-Between levels of Game
  
- ##Native
+ ***Native***
  *Customise the look and feel of your ad.
 *App instal native ads can drive installation with advertising the app. 
 
